@@ -1,0 +1,116 @@
+.front-page{
+   padding: 30px;
+    background-image:url("images/bg-hero-desktop.svg");
+}
+
+
+.information-box{
+	border: 2px, solid, #000000;
+}
+
+header{
+	padding:20px;
+}
+
+.button-header{
+	text-align:center;
+	align-content: right;
+	float:right;
+	background-color:white !important;
+}
+
+.sub-description{
+	margin:50px;
+	padding:50px;
+}
+
+aside{
+	align-content: right;
+}
+
+.content{
+	padding:20px;
+}
+
+.border{
+	color: black;
+	margin:30px;
+	padding:50px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+  }
+
+p{
+	padding-top:20px;
+}
+
+.nav-menu{
+	
+	padding-top:50px;
+	padding-left:80px;
+	background-color: grey;
+	
+}
+
+.content{
+	padding: 30px;
+}
+
+footer{
+	text-align: center;
+}
+
+section{
+	padding-top:90px;
+	padding-left:50px;
+	padding-bottom:10px;
+	padding-right:10px;
+	
+}
+
+.section-4{
+	text-align:center;
+	border:black, 2px, solid;
+}
+
+address{
+	line-height: 20px;
+}
+
+.nav-menu{ 
+	color: #ffffff;text-decoration: none !important;
+}
+
+/*footer*/
+
+a:link {
+  color:white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+button{
+	border-radius:15px;
+	width: 160px;
+	height: 60px; 
+	background-color: pink;
+	
+}
+
